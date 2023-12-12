@@ -2,7 +2,8 @@
 
 This repository includes scripts for analyzing and generating figures from the publication titled "Heterogeneity of synaptic connectivity in the fly visual system."
 
-The organization follows the data and experiment types used in the publication: https://zenodo.org/doi/10.5281/zenodo.10361474
+The organization follows the data and experiment types used in the publication.
+The data is accessible on Zenodo: https://zenodo.org/doi/10.5281/zenodo.10361474
 
 ## 1. EM-analysis:
 
